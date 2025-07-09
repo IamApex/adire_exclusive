@@ -1,0 +1,1273 @@
+{
+    "collections": [
+        {
+            "id": 8461927,
+            "dateAdded": "2025-06-01T10:00:00Z",
+            "productName": "2 Piece Hand-dyed with authentic Adire patterns",
+            "productRating": 4.5,
+            "productPrice": {
+                "USD": {
+                    "price": 265,
+                    "lastPrice": 350
+                },
+                "NGN": {
+                    "price": 120000,
+                    "lastPrice": 150000
+                }
+            },
+            "productImages": [
+                "/men.jpg",
+                "/men2.jpg",
+                "/men3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "natural dye"
+            ],
+            "description": "This 2-piece outfit is hand-dyed with authentic Adire patterns using traditional Yoruba techniques. Stylish, breathable, and perfect for cultural or casual wear.",
+            "productCategory": [
+                "men",
+                "2 pieces"
+            ],
+            "availableSizes": [
+                {
+                    "size": "S",
+                    "inventory": 10
+                },
+                {
+                    "size": "M",
+                    "inventory": 5
+                },
+                {
+                    "size": "L",
+                    "inventory": 0
+                },
+                {
+                    "size": "XL",
+                    "inventory": 7
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 12
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Navy",
+                    "hex": "#1C2D4F"
+                },
+                {
+                    "name": "Khaki",
+                    "hex": "#D4B483"
+                }
+            ],
+            "careInstructions": "Hand wash cold. Do not bleach. Line dry.",
+            "origin": "Nigeria",
+            "tags": [
+                "adire",
+                "2-piece",
+                "hand-dyed",
+                "Yoruba fashion",
+                "cultural wear"
+            ]
+        },
+        {
+            "id": 8461929,
+            "dateAdded": "2025-06-02T14:30:00Z",
+            "productName": "Traditional Agbada with Embroidered Patterns",
+            "productRating": 4.8,
+            "productPrice": {
+                "USD": {
+                    "price": 485,
+                    "lastPrice": 620
+                },
+                "NGN": {
+                    "price": 220000,
+                    "lastPrice": 280000
+                }
+            },
+            "productImages": [
+                "/men_agbada1.jpg",
+                "/men_agbada2.jpg",
+                "/men_agbada3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "silk thread embroidery"
+            ],
+            "description": "Magnificent traditional Agbada with intricate embroidered patterns. Perfect for special occasions, weddings, and cultural celebrations.",
+            "productCategory": [
+                "men",
+                "agbada",
+                "formal"
+            ],
+            "availableSizes": [
+                {
+                    "size": "M",
+                    "inventory": 3
+                },
+                {
+                    "size": "L",
+                    "inventory": 8
+                },
+                {
+                    "size": "XL",
+                    "inventory": 6
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 4
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Royal Blue",
+                    "hex": "#4169E1"
+                },
+                {
+                    "name": "Emerald Green",
+                    "hex": "#50C878"
+                },
+                {
+                    "name": "Burgundy",
+                    "hex": "#800020"
+                }
+            ],
+            "careInstructions": "Dry clean only. Store flat.",
+            "origin": "Nigeria",
+            "tags": [
+                "agbada",
+                "formal",
+                "embroidered",
+                "traditional",
+                "special occasion"
+            ]
+        },
+        {
+            "id": 8461930,
+            "dateAdded": "2025-06-03T09:15:00Z",
+            "productName": "Casual Dashiki Shirt with Geometric Patterns",
+            "productRating": 4.3,
+            "productPrice": {
+                "USD": {
+                    "price": 125,
+                    "lastPrice": 165
+                },
+                "NGN": {
+                    "price": 56000,
+                    "lastPrice": 75000
+                }
+            },
+            "productImages": [
+                "/men_dashiki1.jpg",
+                "/men_dashiki2.jpg",
+                "/men_dashiki3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton"
+            ],
+            "description": "Comfortable dashiki shirt featuring bold geometric patterns. Perfect for casual outings and everyday wear with authentic African style.",
+            "productCategory": [
+                "men",
+                "shirts",
+                "casual"
+            ],
+            "availableSizes": [
+                {
+                    "size": "S",
+                    "inventory": 15
+                },
+                {
+                    "size": "M",
+                    "inventory": 0
+                },
+                {
+                    "size": "L",
+                    "inventory": 12
+                },
+                {
+                    "size": "XL",
+                    "inventory": 8
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 5
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Orange",
+                    "hex": "#FF8C00"
+                },
+                {
+                    "name": "Purple",
+                    "hex": "#8A2BE2"
+                },
+                {
+                    "name": "Forest Green",
+                    "hex": "#228B22"
+                }
+            ],
+            "careInstructions": "Machine wash cold. Tumble dry low.",
+            "origin": "Nigeria",
+            "tags": [
+                "dashiki",
+                "casual",
+                "geometric",
+                "everyday wear",
+                "shirt"
+            ]
+        },
+        {
+            "id": 8461931,
+            "dateAdded": "2025-06-04T16:45:00Z",
+            "productName": "3-Piece Senator Style with Cap",
+            "productRating": 4.6,
+            "productPrice": {
+                "USD": {
+                    "price": 320,
+                    "lastPrice": 425
+                },
+                "NGN": {
+                    "price": 145000,
+                    "lastPrice": 192000
+                }
+            },
+            "productImages": [
+                "/men_senator1.jpg",
+                "/men_senator2.jpg",
+                "/men_senator3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "polyester blend"
+            ],
+            "description": "Elegant 3-piece senator style outfit complete with matching cap. Features contemporary cuts with traditional African elements.",
+            "productCategory": [
+                "men",
+                "3 pieces",
+                "senator"
+            ],
+            "availableSizes": [
+                {
+                    "size": "M",
+                    "inventory": 7
+                },
+                {
+                    "size": "L",
+                    "inventory": 9
+                },
+                {
+                    "size": "XL",
+                    "inventory": 11
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 6
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Charcoal Grey",
+                    "hex": "#36454F"
+                },
+                {
+                    "name": "Cream",
+                    "hex": "#F5F5DC"
+                }
+            ],
+            "careInstructions": "Dry clean recommended. Iron on medium heat.",
+            "origin": "Nigeria",
+            "tags": [
+                "senator",
+                "3-piece",
+                "formal",
+                "cap",
+                "contemporary"
+            ]
+        },
+        {
+            "id": 8461932,
+            "dateAdded": "2025-06-05T11:20:00Z",
+            "productName": "Kente Print Polo Shirt",
+            "productRating": 4.2,
+            "productPrice": {
+                "USD": {
+                    "price": 85,
+                    "lastPrice": 115
+                },
+                "NGN": {
+                    "price": 38000,
+                    "lastPrice": 52000
+                }
+            },
+            "productImages": [
+                "/men_kente_polo1.jpg",
+                "/men_kente_polo2.jpg",
+                "/men_kente_polo3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "cotton-polyester blend"
+            ],
+            "description": "Modern polo shirt featuring authentic Kente print patterns. Combines comfort with cultural heritage for a sophisticated casual look.",
+            "productCategory": [
+                "men",
+                "polo",
+                "casual"
+            ],
+            "availableSizes": [
+                {
+                    "size": "S",
+                    "inventory": 18
+                },
+                {
+                    "size": "M",
+                    "inventory": 22
+                },
+                {
+                    "size": "L",
+                    "inventory": 16
+                },
+                {
+                    "size": "XL",
+                    "inventory": 14
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 8
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Gold & Black",
+                    "hex": "#FFD700"
+                },
+                {
+                    "name": "Red & Green",
+                    "hex": "#DC143C"
+                }
+            ],
+            "careInstructions": "Machine wash warm. Do not iron print directly.",
+            "origin": "Nigeria",
+            "tags": [
+                "kente",
+                "polo",
+                "print",
+                "casual",
+                "modern"
+            ]
+        },
+        {
+            "id": 8461933,
+            "dateAdded": "2025-06-06T13:10:00Z",
+            "productName": "Brocade Grand Boubou",
+            "productRating": 4.9,
+            "productPrice": {
+                "USD": {
+                    "price": 680,
+                    "lastPrice": 850
+                },
+                "NGN": {
+                    "price": 308000,
+                    "lastPrice": 385000
+                }
+            },
+            "productImages": [
+                "/men_boubou1.jpg",
+                "/men_boubou2.jpg",
+                "/men_boubou3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "brocade fabric",
+                "silk lining"
+            ],
+            "description": "Luxurious Grand Boubou crafted from premium brocade fabric with silk lining. Perfect for high-profile events and ceremonial occasions.",
+            "productCategory": [
+                "men",
+                "boubou",
+                "luxury"
+            ],
+            "availableSizes": [
+                {
+                    "size": "L",
+                    "inventory": 2
+                },
+                {
+                    "size": "XL",
+                    "inventory": 3
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 1
+                }
+            ],
+            "availability": "limited_stock",
+            "availableColors": [
+                {
+                    "name": "Gold Brocade",
+                    "hex": "#B8860B"
+                },
+                {
+                    "name": "Silver Brocade",
+                    "hex": "#C0C0C0"
+                }
+            ],
+            "careInstructions": "Professional dry clean only. Handle with care.",
+            "origin": "Nigeria",
+            "tags": [
+                "boubou",
+                "brocade",
+                "luxury",
+                "ceremonial",
+                "premium"
+            ]
+        },
+        {
+            "id": 8461934,
+            "dateAdded": "2025-06-07T08:55:00Z",
+            "productName": "Ankara Print Casual Shorts Set",
+            "productRating": 4.1,
+            "productPrice": {
+                "USD": {
+                    "price": 95,
+                    "lastPrice": 125
+                },
+                "NGN": {
+                    "price": 43000,
+                    "lastPrice": 56000
+                }
+            },
+            "productImages": [
+                "/men_ankara_shorts1.jpg",
+                "/men_ankara_shorts2.jpg",
+                "/men_ankara_shorts3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "ankara print"
+            ],
+            "description": "Vibrant Ankara print shorts set perfect for summer and casual occasions. Features matching shirt with bold African patterns.",
+            "productCategory": [
+                "men",
+                "shorts",
+                "summer"
+            ],
+            "availableSizes": [
+                {
+                    "size": "S",
+                    "inventory": 12
+                },
+                {
+                    "size": "M",
+                    "inventory": 15
+                },
+                {
+                    "size": "L",
+                    "inventory": 18
+                },
+                {
+                    "size": "XL",
+                    "inventory": 10
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 7
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Bright Yellow",
+                    "hex": "#FFFF00"
+                },
+                {
+                    "name": "Teal Blue",
+                    "hex": "#008080"
+                },
+                {
+                    "name": "Magenta",
+                    "hex": "#FF00FF"
+                }
+            ],
+            "careInstructions": "Machine wash cold. Air dry recommended.",
+            "origin": "Nigeria",
+            "tags": [
+                "ankara",
+                "shorts",
+                "summer",
+                "casual",
+                "vibrant"
+            ]
+        },
+        {
+            "id": 8461935,
+            "dateAdded": "2025-06-08T15:30:00Z",
+            "productName": "Embroidered Kaftan Robe",
+            "productRating": 4.4,
+            "productPrice": {
+                "USD": {
+                    "price": 195,
+                    "lastPrice": 245
+                },
+                "NGN": {
+                    "price": 88000,
+                    "lastPrice": 111000
+                }
+            },
+            "productImages": [
+                "/men_kaftan1.jpg",
+                "/men_kaftan2.jpg",
+                "/men_kaftan3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "hand embroidery"
+            ],
+            "description": "Comfortable kaftan robe with beautiful hand-embroidered details along the neckline and sleeves. Perfect for relaxation and cultural events.",
+            "productCategory": [
+                "men",
+                "kaftan",
+                "robe"
+            ],
+            "availableSizes": [
+                {
+                    "size": "M",
+                    "inventory": 8
+                },
+                {
+                    "size": "L",
+                    "inventory": 12
+                },
+                {
+                    "size": "XL",
+                    "inventory": 9
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 6
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "White",
+                    "hex": "#FFFFFF"
+                },
+                {
+                    "name": "Light Blue",
+                    "hex": "#ADD8E6"
+                },
+                {
+                    "name": "Beige",
+                    "hex": "#F5F5DC"
+                }
+            ],
+            "careInstructions": "Hand wash recommended. Do not wring.",
+            "origin": "Nigeria",
+            "tags": [
+                "kaftan",
+                "embroidered",
+                "robe",
+                "comfortable",
+                "cultural"
+            ]
+        },
+        {
+            "id": 8461936,
+            "dateAdded": "2025-06-09T12:40:00Z",
+            "productName": "Modern Fit Ankara Blazer",
+            "productRating": 4.7,
+            "productPrice": {
+                "USD": {
+                    "price": 225,
+                    "lastPrice": 285
+                },
+                "NGN": {
+                    "price": 102000,
+                    "lastPrice": 129000
+                }
+            },
+            "productImages": [
+                "/men_ankara_blazer1.jpg",
+                "/men_ankara_blazer2.jpg",
+                "/men_ankara_blazer3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "ankara fabric",
+                "cotton lining"
+            ],
+            "description": "Contemporary blazer crafted from premium Ankara fabric with modern tailoring. Perfect for business casual and semi-formal occasions.",
+            "productCategory": [
+                "men",
+                "blazer",
+                "modern"
+            ],
+            "availableSizes": [
+                {
+                    "size": "S",
+                    "inventory": 5
+                },
+                {
+                    "size": "M",
+                    "inventory": 11
+                },
+                {
+                    "size": "L",
+                    "inventory": 8
+                },
+                {
+                    "size": "XL",
+                    "inventory": 6
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Deep Blue Pattern",
+                    "hex": "#191970"
+                },
+                {
+                    "name": "Maroon Pattern",
+                    "hex": "#800000"
+                }
+            ],
+            "careInstructions": "Dry clean only. Store on hanger.",
+            "origin": "Nigeria",
+            "tags": [
+                "blazer",
+                "modern",
+                "ankara",
+                "business casual",
+                "tailored"
+            ]
+        },
+        {
+            "id": 8461937,
+            "dateAdded": "2025-06-10T17:25:00Z",
+            "productName": "Traditional Tie-Dye Jogger Set",
+            "productRating": 4.0,
+            "productPrice": {
+                "USD": {
+                    "price": 115,
+                    "lastPrice": 145
+                },
+                "NGN": {
+                    "price": 52000,
+                    "lastPrice": 66000
+                }
+            },
+            "productImages": [
+                "/men_tiedye_jogger1.jpg",
+                "/men_tiedye_jogger2.jpg",
+                "/men_tiedye_jogger3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "cotton blend",
+                "traditional tie-dye"
+            ],
+            "description": "Comfortable jogger set featuring traditional Nigerian tie-dye patterns. Perfect for exercise, lounging, or casual streetwear.",
+            "productCategory": [
+                "men",
+                "joggers",
+                "activewear"
+            ],
+            "availableSizes": [
+                {
+                    "size": "S",
+                    "inventory": 14
+                },
+                {
+                    "size": "M",
+                    "inventory": 18
+                },
+                {
+                    "size": "L",
+                    "inventory": 16
+                },
+                {
+                    "size": "XL",
+                    "inventory": 12
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 9
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Blue Spiral",
+                    "hex": "#4682B4"
+                },
+                {
+                    "name": "Earth Tones",
+                    "hex": "#D2691E"
+                }
+            ],
+            "careInstructions": "Machine wash cold. Tumble dry low.",
+            "origin": "Nigeria",
+            "tags": [
+                "tie-dye",
+                "joggers",
+                "activewear",
+                "comfortable",
+                "streetwear"
+            ]
+        },
+        {
+            "id": 8461938,
+            "dateAdded": "2025-06-11T14:15:00Z",
+            "productName": "Ceremonial Wrapper Set with Fila",
+            "productRating": 4.5,
+            "productPrice": {
+                "USD": {
+                    "price": 295,
+                    "lastPrice": 380
+                },
+                "NGN": {
+                    "price": 134000,
+                    "lastPrice": 172000
+                }
+            },
+            "productImages": [
+                "/men_wrapper_fila1.jpg",
+                "/men_wrapper_fila2.jpg",
+                "/men_wrapper_fila3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "aso-oke fabric",
+                "cotton"
+            ],
+            "description": "Traditional ceremonial wrapper set complete with matching Fila cap. Authentic Yoruba attire perfect for cultural ceremonies and celebrations.",
+            "productCategory": [
+                "men",
+                "ceremonial",
+                "traditional"
+            ],
+            "availableSizes": [
+                {
+                    "size": "M",
+                    "inventory": 4
+                },
+                {
+                    "size": "L",
+                    "inventory": 6
+                },
+                {
+                    "size": "XL",
+                    "inventory": 5
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 3
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Traditional Brown",
+                    "hex": "#8B4513"
+                },
+                {
+                    "name": "Royal Purple",
+                    "hex": "#663399"
+                }
+            ],
+            "careInstructions": "Dry clean recommended. Handle traditional fabric with care.",
+            "origin": "Nigeria",
+            "tags": [
+                "ceremonial",
+                "wrapper",
+                "fila",
+                "traditional",
+                "aso-oke"
+            ]
+        },
+        {
+            "id": 8461928,
+            "dateAdded": "2025-06-01T10:00:00Z",
+            "productName": "2 Piece Hand-dyed with authentic Adire patterns",
+            "productRating": 4.7,
+            "productPrice": {
+                "USD": {
+                    "price": 270,
+                    "lastPrice": 355
+                },
+                "NGN": {
+                    "price": 122000,
+                    "lastPrice": 152000
+                }
+            },
+            "productImages": [
+                "/women.jpg",
+                "/women2.jpg",
+                "/women3.jpg"
+            ],
+            "gender": "women",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "natural dye"
+            ],
+            "description": "This 2-piece outfit for women is hand-dyed with authentic Adire patterns using traditional Yoruba techniques. Stylish, breathable, and perfect for cultural or casual wear.",
+            "productCategory": [
+                "women",
+                "2 pieces"
+            ],
+            "availableSizes": [
+                {
+                    "size": "XS",
+                    "inventory": 8
+                },
+                {
+                    "size": "S",
+                    "inventory": 15
+                },
+                {
+                    "size": "M",
+                    "inventory": 10
+                },
+                {
+                    "size": "L",
+                    "inventory": 5
+                },
+                {
+                    "size": "XL",
+                    "inventory": 3
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Coral Pink",
+                    "hex": "#F88379"
+                },
+                {
+                    "name": "Ivory",
+                    "hex": "#FFFFF0"
+                }
+            ],
+            "careInstructions": "Hand wash cold. Do not bleach. Line dry.",
+            "origin": "Nigeria",
+            "tags": [
+                "adire",
+                "2-piece",
+                "hand-dyed",
+                "Yoruba fashion",
+                "cultural wear",
+                "women"
+            ]
+        },
+        {
+            "id": 8461939,
+            "dateAdded": "2025-06-02T11:20:00Z",
+            "productName": "Elegant Ankara Maxi Dress with Head Wrap",
+            "productRating": 4.8,
+            "productPrice": {
+                "USD": {
+                    "price": 185,
+                    "lastPrice": 235
+                },
+                "NGN": {
+                    "price": 84000,
+                    "lastPrice": 106000
+                }
+            },
+            "productImages": [
+                "/women_ankara_maxi1.jpg",
+                "/women_ankara_maxi2.jpg",
+                "/women_ankara_maxi3.jpg"
+            ],
+            "gender": "women",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "ankara fabric"
+            ],
+            "description": "Stunning ankle-length maxi dress with vibrant Ankara prints, complete with matching head wrap. Perfect for special occasions and cultural events.",
+            "productCategory": [
+                "women",
+                "dress",
+                "maxi"
+            ],
+            "availableSizes": [
+                {
+                    "size": "XS",
+                    "inventory": 6
+                },
+                {
+                    "size": "S",
+                    "inventory": 12
+                },
+                {
+                    "size": "M",
+                    "inventory": 15
+                },
+                {
+                    "size": "L",
+                    "inventory": 8
+                },
+                {
+                    "size": "XL",
+                    "inventory": 4
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 2
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Sunset Orange",
+                    "hex": "#FF4500"
+                },
+                {
+                    "name": "Royal Purple",
+                    "hex": "#663399"
+                },
+                {
+                    "name": "Emerald Green",
+                    "hex": "#50C878"
+                }
+            ],
+            "careInstructions": "Machine wash cold. Hang dry. Iron on medium heat.",
+            "origin": "Nigeria",
+            "tags": [
+                "ankara",
+                "maxi dress",
+                "head wrap",
+                "elegant",
+                "special occasion"
+            ]
+        },
+        {
+            "id": 8461940,
+            "dateAdded": "2025-06-03T16:45:00Z",
+            "productName": "Iro and Buba Set with Gele",
+            "productRating": 4.9,
+            "productPrice": {
+                "USD": {
+                    "price": 425,
+                    "lastPrice": 545
+                },
+                "NGN": {
+                    "price": 192000,
+                    "lastPrice": 247000
+                }
+            },
+            "productImages": [
+                "/women_iro_buba1.jpg",
+                "/women_iro_buba2.jpg",
+                "/women_iro_buba3.jpg"
+            ],
+            "gender": "women",
+            "brand": "Adire Collections",
+            "material": [
+                "aso-oke fabric",
+                "silk blend"
+            ],
+            "description": "Traditional Yoruba Iro and Buba set with matching Gele headpiece. Handwoven aso-oke fabric with intricate patterns for ceremonial occasions.",
+            "productCategory": [
+                "women",
+                "traditional",
+                "ceremonial"
+            ],
+            "availableSizes": [
+                {
+                    "size": "S",
+                    "inventory": 3
+                },
+                {
+                    "size": "M",
+                    "inventory": 5
+                },
+                {
+                    "size": "L",
+                    "inventory": 4
+                },
+                {
+                    "size": "XL",
+                    "inventory": 2
+                }
+            ],
+            "availability": "limited_stock",
+            "availableColors": [
+                {
+                    "name": "Gold & Blue",
+                    "hex": "#FFD700"
+                },
+                {
+                    "name": "Pink & Silver",
+                    "hex": "#FFC0CB"
+                }
+            ],
+            "careInstructions": "Dry clean only. Store flat to preserve shape.",
+            "origin": "Nigeria",
+            "tags": [
+                "iro",
+                "buba",
+                "gele",
+                "traditional",
+                "aso-oke",
+                "ceremonial"
+            ]
+        },
+        {
+            "id": 8461941,
+            "dateAdded": "2025-06-04T09:30:00Z",
+            "productName": "Modern Ankara Peplum Top with Skirt",
+            "productRating": 4.4,
+            "productPrice": {
+                "USD": {
+                    "price": 145,
+                    "lastPrice": 185
+                },
+                "NGN": {
+                    "price": 66000,
+                    "lastPrice": 84000
+                }
+            },
+            "productImages": [
+                "/women_peplum1.jpg",
+                "/women_peplum2.jpg",
+                "/women_peplum3.jpg"
+            ],
+            "gender": "women",
+            "brand": "Adire Collections",
+            "material": [
+                "ankara fabric",
+                "polyester blend"
+            ],
+            "description": "Contemporary peplum top with matching pencil skirt featuring bold Ankara prints. Perfect for office wear and professional settings.",
+            "productCategory": [
+                "women",
+                "peplum",
+                "office wear"
+            ],
+            "availableSizes": [
+                {
+                    "size": "XS",
+                    "inventory": 7
+                },
+                {
+                    "size": "S",
+                    "inventory": 14
+                },
+                {
+                    "size": "M",
+                    "inventory": 16
+                },
+                {
+                    "size": "L",
+                    "inventory": 12
+                },
+                {
+                    "size": "XL",
+                    "inventory": 8
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Navy & Gold",
+                    "hex": "#000080"
+                },
+                {
+                    "name": "Burgundy & Cream",
+                    "hex": "#800020"
+                }
+            ],
+            "careInstructions": "Machine wash cold. Professional pressing recommended.",
+            "origin": "Nigeria",
+            "tags": [
+                "peplum",
+                "office wear",
+                "modern",
+                "professional",
+                "ankara"
+            ]
+        },
+        {
+            "id": 8461942,
+            "dateAdded": "2025-06-05T13:15:00Z",
+            "productName": "Kente Print Wrap Dress",
+            "productRating": 4.6,
+            "productPrice": {
+                "USD": {
+                    "price": 165,
+                    "lastPrice": 205
+                },
+                "NGN": {
+                    "price": 75000,
+                    "lastPrice": 93000
+                }
+            },
+            "productImages": [
+                "/women_kente_wrap1.jpg",
+                "/women_kente_wrap2.jpg",
+                "/women_kente_wrap3.jpg"
+            ],
+            "gender": "women",
+            "brand": "Adire Collections",
+            "material": [
+                "cotton blend",
+                "kente print"
+            ],
+            "description": "Flattering wrap dress featuring authentic Kente patterns with adjustable waist tie. Versatile design suitable for both casual and semi-formal occasions.",
+            "productCategory": [
+                "women",
+                "wrap dress",
+                "kente"
+            ],
+            "availableSizes": [
+                {
+                    "size": "XS",
+                    "inventory": 9
+                },
+                {
+                    "size": "S",
+                    "inventory": 13
+                },
+                {
+                    "size": "M",
+                    "inventory": 18
+                },
+                {
+                    "size": "L",
+                    "inventory": 11
+                },
+                {
+                    "size": "XL",
+                    "inventory": 6
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Traditional Multi",
+                    "hex": "#DAA520"
+                },
+                {
+                    "name": "Red & Black",
+                    "hex": "#DC143C"
+                }
+            ],
+            "careInstructions": "Machine wash gentle cycle. Line dry recommended.",
+            "origin": "Nigeria",
+            "tags": [
+                "kente",
+                "wrap dress",
+                "versatile",
+                "adjustable",
+                "semi-formal"
+            ]
+        },
+        {
+            "id": 8461943,
+            "dateAdded": "2025-06-06T18:00:00Z",
+            "productName": "Batik Print Palazzo Pants Set",
+            "productRating": 4.2,
+            "productPrice": {
+                "USD": {
+                    "price": 125,
+                    "lastPrice": 155
+                },
+                "NGN": {
+                    "price": 57000,
+                    "lastPrice": 70000
+                }
+            },
+            "productImages": [
+                "/women_batik_palazzo1.jpg",
+                "/women_batik_palazzo2.jpg",
+                "/women_batik_palazzo3.jpg"
+            ],
+            "gender": "women",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "batik print"
+            ],
+            "description": "Comfortable palazzo pants set with flowing silhouette and hand-crafted batik prints. Includes matching tunic top for a coordinated look.",
+            "productCategory": [
+                "women",
+                "palazzo",
+                "casual"
+            ],
+            "availableSizes": [
+                {
+                    "size": "S",
+                    "inventory": 11
+                },
+                {
+                    "size": "M",
+                    "inventory": 16
+                },
+                {
+                    "size": "L",
+                    "inventory": 14
+                },
+                {
+                    "size": "XL",
+                    "inventory": 9
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 5
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Indigo Blue",
+                    "hex": "#4B0082"
+                },
+                {
+                    "name": "Rust Orange",
+                    "hex": "#B7410E"
+                },
+                {
+                    "name": "Forest Green",
+                    "hex": "#355E3B"
+                }
+            ],
+            "careInstructions": "Hand wash cold. Do not wring. Air dry.",
+            "origin": "Nigeria",
+            "tags": [
+                "batik",
+                "palazzo",
+                "comfortable",
+                "flowing",
+                "casual"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "collections": [
+        {
+            "id": 8461927,
+            "dateAdded": "2025-06-01T10:00:00Z",
+            "productName": "2 Piece Hand-dyed with authentic Adire patterns",
+            "productRating": 4.5,
+            "productPrice": {
+                "USD": {
+                    "price": 265,
+                    "lastPrice": 350
+                },
+                "NGN": {
+                    "price": 120000,
+                    "lastPrice": 150000
+                }
+            },
+            "productImages": [
+                "/men.jpg",
+                "/men2.jpg",
+                "/men3.jpg"
+            ],
+            "gender": "men",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "natural dye"
+            ],
+            "description": "This 2-piece outfit is hand-dyed with authentic Adire patterns using traditional Yoruba techniques. Stylish, breathable, and perfect for cultural or casual wear.",
+            "productCategory": [
+                "men",
+                "2 pieces"
+            ],
+            "availableSizes": [
+                {
+                    "size": "S",
+                    "inventory": 10
+                },
+                {
+                    "size": "M",
+                    "inventory": 5
+                },
+                {
+                    "size": "L",
+                    "inventory": 0
+                },
+                {
+                    "size": "XL",
+                    "inventory": 7
+                },
+                {
+                    "size": "XXL",
+                    "inventory": 12
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Navy",
+                    "hex": "#1C2D4F"
+                },
+                {
+                    "name": "Khaki",
+                    "hex": "#D4B483"
+                }
+            ],
+            "careInstructions": "Hand wash cold. Do not bleach. Line dry.",
+            "origin": "Nigeria",
+            "tags": [
+                "adire",
+                "2-piece",
+                "hand-dyed",
+                "Yoruba fashion",
+                "cultural wear"
+            ]
+        },
+        {
+            "id": 8461928,
+            "dateAdded": "2025-06-01T10:00:00Z",
+            "productName": "2 Piece Hand-dyed with authentic Adire patterns (Women)",
+            "productRating": 4.7,
+            "productPrice": {
+                "USD": {
+                    "price": 270,
+                    "lastPrice": 355
+                },
+                "NGN": {
+                    "price": 122000,
+                    "lastPrice": 152000
+                }
+            },
+            "productImages": [
+                "/women.jpg",
+                "/women2.jpg",
+                "/women3.jpg"
+            ],
+            "gender": "women",
+            "brand": "Adire Collections",
+            "material": [
+                "100% cotton",
+                "natural dye"
+            ],
+            "description": "This 2-piece outfit for women is hand-dyed with authentic Adire patterns using traditional Yoruba techniques. Stylish, breathable, and perfect for cultural or casual wear.",
+            "productCategory": [
+                "women",
+                "2 pieces"
+            ],
+            "availableSizes": [
+                {
+                    "size": "XS",
+                    "inventory": 8
+                },
+                {
+                    "size": "S",
+                    "inventory": 15
+                },
+                {
+                    "size": "M",
+                    "inventory": 10
+                },
+                {
+                    "size": "L",
+                    "inventory": 5
+                },
+                {
+                    "size": "XL",
+                    "inventory": 3
+                }
+            ],
+            "availability": "in_stock",
+            "availableColors": [
+                {
+                    "name": "Coral Pink",
+                    "hex": "#F88379"
+                },
+                {
+                    "name": "Ivory",
+                    "hex": "#FFFFF0"
+                }
+            ],
+            "careInstructions": "Hand wash cold. Do not bleach. Line dry.",
+            "origin": "Nigeria",
+            "tags": [
+                "adire",
+                "2-piece",
+                "hand-dyed",
+                "Yoruba fashion",
+                "cultural wear",
+                "women"
+            ]
+        }
+    ]
+}
