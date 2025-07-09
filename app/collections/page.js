@@ -1,8 +1,5 @@
-import { getWomenCollections } from "../_lib/data";
-import GenderCollection from "../_pages/GenderCollection";
+import Collections from "../_pages/Collections";
 
 export default async function Page() {
-  const products = await getWomenCollections();
-  return <GenderCollection productsDataRaw={products} />;
+  return <Collections />;
 }
-
