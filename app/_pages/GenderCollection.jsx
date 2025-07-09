@@ -4,13 +4,13 @@ import { useSearchParams } from "next/navigation";
 import { ProductCard } from "../_components/Cards";
 import Filter from "../_components/Filter";
 import { CollectionWrapper } from "../_components/UI";
-import { useEffect, useState } from "react";
+import {  useEffect, useState } from "react";
 
-export default function GenderCollection({ productsDataRaw }) {
+ export default function GenderCollection({ productsDataRaw }) {
   const [data, setData] = useState(productsDataRaw);
-  console.log("this is the gender collection:", data);
 
   const searchParams = useSearchParams();
+
   const currency =
     typeof window !== "undefined" ? localStorage.getItem("currency") : null;
 
@@ -70,3 +70,5 @@ export default function GenderCollection({ productsDataRaw }) {
     </section>
   );
 }
+
+

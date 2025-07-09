@@ -16,14 +16,20 @@ export async function getCollections() {
 }
 
 export async function getMenCollections() {
-  let { data: men, error } = await supabase.from("collections").select("*");
+  let { data: men, error } = await supabase
+    .from("collections")
+    .select("*")
+    .eq("gender", "men");
   if (error) throw new Error(`Fetching men collections failed: ${error}`);
 
   return men;
 }
 
 export async function getWomenCollections() {
-  let { data: women, error } = await supabase.from("collections").select("*");
+  let { data: women, error } = await supabase
+    .from("collections")
+    .select("*")
+    .eq("gender", "men");
   if (error)
     throw new Error(`Fetching women collections failed: ${error.message}`);
 

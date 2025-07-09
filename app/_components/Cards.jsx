@@ -189,7 +189,7 @@ export function WishCard({ product }) {
       <div className="w-40 h-full relative ">
         <Image
           fill
-          src={productImage}
+          src={"/men.jpg"}
           alt={productName}
           className="object-cover object-top"
         />
@@ -208,7 +208,10 @@ export function WishCard({ product }) {
 
         <div className="flex items-center">
           <span className="text-xs">
-            {formatPrice(productPrice[currency].price, currency)}
+            {
+              (productPrice?.[currency]?.price,
+              currency && formatPrice(productPrice[currency].price, currency))
+            }
           </span>
         </div>
 
@@ -266,7 +269,10 @@ export function SearchCard({ product }) {
 
         <div className="flex items-center">
           <span className="text-xs">
-            {formatPrice(productPrice[currency].price, currency)}
+            {
+              (productPrice?.[currency]?.price,
+              currency && formatPrice(productPrice[currency].price, currency))
+            }
           </span>
         </div>
       </div>
