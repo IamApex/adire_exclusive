@@ -2,8 +2,9 @@
 
 import { useSearchParams } from "next/navigation";
 import { H3 } from "../_components/Headers";
+import { Suspense } from "react";
 
-export default function Legal() {
+ function Legal() {
   const searchParams = useSearchParams();
   const params = searchParams.get("section");
   console.log(params);
@@ -239,4 +240,10 @@ export default function Legal() {
       </div>
     </section>
   );
+}
+
+export default function LegalPageWrapper(){
+  return <Suspense fallback={<div>Loading...</div>}>
+    <Legal />
+  </Suspense>
 }
