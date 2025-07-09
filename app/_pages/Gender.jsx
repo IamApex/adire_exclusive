@@ -33,7 +33,7 @@ function CollectionBanner({ gender, data }) {
       </div>
 
       <CollectionWrapper>
-        {products.slice(0,5).map((data) => (
+        {products.slice(0, 5).map((data) => (
           <ProductCard product={data} key={data.id} />
         ))}
       </CollectionWrapper>
@@ -55,7 +55,7 @@ function SeenOn() {
 
 function SeenOnCard() {
   return (
-    <div className="w-[25dvw] h-[60dvh]">
+    <div className="w-[50dvw] h-90 md:w-[20dvw] md:h-[60dvh]">
       <div className="w-full h-[80%] relative">
         <Image
           fill
