@@ -5,9 +5,9 @@ import { ProductCard } from "../_components/Cards";
 import Filter from "../_components/Filter";
 import { CollectionWrapper } from "../_components/UI";
 import { getCollections, getCollectionsData } from "../_lib/data";
-import { useEffect, useState } from "react";
+import { Suspense, useEffect, useState } from "react";
 
-export default function Collections() {
+function Collections() {
   const [data, setData] = useState([]);
   const searchParams = useSearchParams();
   const currency =
@@ -20,7 +20,6 @@ export default function Collections() {
 
         const sortValue = searchParams.get("sortBy");
         if (sortValue) {
-
           const sortedProducts = productsData.slice().sort((a, b) => {
             switch (sortValue) {
               case "priceAscending":
@@ -46,8 +45,6 @@ export default function Collections() {
             }
           });
 
-          
-
           setData(sortedProducts);
         } else {
           setData(productsData);
@@ -69,5 +66,13 @@ export default function Collections() {
         ))}
       </CollectionWrapper>
     </section>
+  );
+}
+
+export default function CollectionPageWrapper() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <Collections />
+    </Suspense>
   );
 }

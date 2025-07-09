@@ -1,5 +1,5 @@
-import Collections from "../_pages/Collections";
+import CollectionPageWrapper from "../_pages/Collections";
 
-export default async function Page() {
-  return <Collections />;
+export default function Page() {
+  return <CollectionPageWrapper />;
 }
