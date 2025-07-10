@@ -4,9 +4,9 @@ import { useSearchParams } from "next/navigation";
 import { ProductCard } from "../_components/Cards";
 import Filter from "../_components/Filter";
 import { CollectionWrapper } from "../_components/UI";
-import {  useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
- export default function GenderCollection({ productsDataRaw }) {
+export default function GenderCollection({ productsDataRaw }) {
   const [data, setData] = useState(productsDataRaw);
 
   const searchParams = useSearchParams();
@@ -63,12 +63,17 @@ import {  useEffect, useState } from "react";
       <Filter />
 
       <CollectionWrapper>
-        {data.map((data, i) => (
+        {/* {data.map((data, i) => (
           <ProductCard product={data} key={data?.id || i} />
-        ))}
+        ))} */}
+
+        {Array(12)
+          .fill(data)
+          .flat()
+          .map((data, i) => (
+            <ProductCard product={data} key={`${data?.id}-${i}`} />
+          ))}
       </CollectionWrapper>
     </section>
   );
 }
-
-

@@ -29,7 +29,7 @@ export async function getWomenCollections() {
   let { data: women, error } = await supabase
     .from("collections")
     .select("*")
-    .eq("gender", "men");
+    .eq("gender", "women");
   if (error)
     throw new Error(`Fetching women collections failed: ${error.message}`);
 

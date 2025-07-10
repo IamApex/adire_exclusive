@@ -100,7 +100,7 @@ export default async function Home() {
             <IoIosArrowRoundForward className="size-5" />
           </Link>
         </div>
-        <ProductSlider products={menCollections} />
+        <ProductSlider products={menCollections || []} />
       </section>
 
       <section className="w-dvw h-[80dvh]">

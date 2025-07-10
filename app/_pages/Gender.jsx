@@ -33,9 +33,16 @@ function CollectionBanner({ gender, data }) {
       </div>
 
       <CollectionWrapper>
-        {products.slice(0, 5).map((data) => (
+        {/* {products.slice(0, 5).map((data) => (
           <ProductCard product={data} key={data.id} />
-        ))}
+        ))} */}
+
+        {Array(12)
+          .fill(products)
+          .flat()
+          .map((data, i) => (
+            <ProductCard product={data} key={`${data?.id}-${i}`} />
+          ))}
       </CollectionWrapper>
       <SeenOn />
     </section>

@@ -61,9 +61,14 @@ function Collections() {
       <Filter />
 
       <CollectionWrapper>
-        {data.map((data, i) => (
-          <ProductCard product={data} key={data?.id || i} />
-        ))}
+        {/* {data.map((data, i) => ( */}
+        {Array(12)
+          .fill(data)
+          .flat()
+          .map((data, i) => (
+            // <ProductCard product={data} key={data?.id || i} />
+            <ProductCard product={data} key={`${data?.id}-${i}`} />
+          ))}
       </CollectionWrapper>
     </section>
   );

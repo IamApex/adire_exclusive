@@ -133,9 +133,16 @@ export function ProductSlider({ products }) {
         className=" flex gap-1 transition-transform ease-out duration-500"
         style={{ transform: `translateX(-${index * cardWidth}px)` }}
       >
-        {products?.map((product) => (
+        {/* {products?.map((product) => (
           <ProductCard product={product} key={product.id} />
-        ))}
+        ))} */}
+
+           {Array(12)
+          .fill(products)
+          .flat()
+          .map((data, i) => (
+            <ProductCard product={data} key={`${data?.id}-${i}`} />
+          ))}
       </div>
 
       <button
